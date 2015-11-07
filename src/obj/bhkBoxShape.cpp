@@ -8,6 +8,7 @@ All rights reserved.  Please see niflib.h for license. */
 //-----------------------------------NOTICE----------------------------------//
 
 //--BEGIN FILE HEAD CUSTOM CODE--//
+#include <algorithm>
 #include "../../include/Inertia.h"
 //--END CUSTOM CODE--//
 
